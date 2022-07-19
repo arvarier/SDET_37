@@ -10,6 +10,8 @@ public class Practice1Test {
 	}
 	public void demo1() {
 		System.out.println("Test2-->Test3");
+		System.out.println("sample github for new class");
+		
 	}
 
 }
