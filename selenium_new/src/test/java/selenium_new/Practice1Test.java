@@ -7,7 +7,7 @@ public class Practice1Test {
 	public void demo() {
 		System.out.println("Test1--->Test3");
 		System.out.println("sample for git");
-		System.out.println("jenkins poll scm");
+		System.out.println("jenkins poll scm2");
 	}
 	public void demo1() {
 		System.out.println("Test2-->Test3");
