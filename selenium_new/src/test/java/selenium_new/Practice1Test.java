@@ -14,6 +14,7 @@ public class Practice1Test {
 		System.out.println("sample github for new class");
 		System.out.println("eclipse to switch branch in git");
        System.out.println("eclipse to switch branch in git  2");
+       System.out.println("eclipse to switch branch in git  3");
 		
 	
 	}
