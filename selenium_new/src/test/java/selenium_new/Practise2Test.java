@@ -9,5 +9,6 @@ public class Practise2Test {
 	}
 	public void demo() {
 		System.out.println();
+		System.out.println("myntra poll scm");
 	}
 }
